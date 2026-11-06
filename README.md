@@ -62,5 +62,8 @@ Stores employee information:
 🛠️ Tools Used
 - MySQL
 - SQL
+
+## Explanation Video
+- https://drive.google.com/file/d/1DpbZJM21NaGrpwAigQA0uNGBxT9ilmCQ/view?usp=drive_link
 📝 Project Summary
 This project provides practical experience with SQL queries and database management. It helps develop a strong understanding of relational databases and analytical SQL operations, which are important skills for Data Analytics.
